@@ -14,6 +14,9 @@ public class HojiTyo {
     /**
      * @param args the command line arguments
      */
+    
+    private UDPsender UDPlahetti;
+    
     public static void main(String[] args) {
         // TODO code application logic here
     }
